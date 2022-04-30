@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "78496412522",
+    "project_id": "converchat-edbf6",
+    "storage_bucket": "converchat-edbf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78496412522:android:f51b999574fde7bb0aeb13",
+        "android_client_info": {
+          "package_name": "com.example.converchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78496412522-8pvpatb764vshr978a09gjj41fh0941d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.converchat",
+            "certificate_hash": "7b9c37cea52bb9d6d2c2a579547d58a78d0124fe"
+          }
+        },
+        {
+          "client_id": "78496412522-c5h18tj6hkensa9cp6vl4mt3k6u3u86p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSj8tTmTWBsL-pd3l-vRiOrUxPoDVx-Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78496412522-c5h18tj6hkensa9cp6vl4mt3k6u3u86p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
